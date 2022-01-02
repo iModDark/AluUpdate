@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateItems>
+  <Item>
+      <Title>Mon Titre 1</Title>
+      <Description>Coucou</Description>
+      <Type>Update</Type>
+  </Item>
+  <Item>
+      <Title>XX2</Title>
+      <Description>Hello 2</Description>
+      <Type>Patch</Type>
+  </Item>
+</UpdateItems>
+
+
