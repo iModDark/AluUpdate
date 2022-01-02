@@ -15,4 +15,9 @@
       <Description>Hello 3</Description>
       <Type>Other</Type>
   </Item>
+  <Item>
+      <Title>XX3</Title>
+      <Description>Hello 3</Description>
+      <Type>2</Type>
+  </Item>
 </UpdateItems>
