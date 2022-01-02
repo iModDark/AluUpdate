@@ -10,6 +10,11 @@
       <Description>Hello 2</Description>
       <Type>Patch</Type>
   </Item>
+  <Item>
+      <Title>XX3</Title>
+      <Description>Hello 3</Description>
+      <Type>4</Type>
+  </Item>
 </UpdateItems>
 
 
