@@ -22,11 +22,13 @@
   </Item>
   <Item>
       <Title>XX5</Title>
-      <Description>Hello 5
-    XXXXXXXX1
-    Line2
-    Tu fait quoi ?
-    Hello</Description>
+      <Description>
+Hello 5
+XXXXXXXX1
+Line2
+Tu fait quoi ?
+Hello
+</Description>
       <Type>Patch</Type>
   </Item>
 </UpdateItems>
