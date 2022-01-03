@@ -16,8 +16,13 @@
       <Type>Other</Type>
   </Item>
   <Item>
-      <Title>XX3</Title>
-      <Description>Hello 3</Description>
+      <Title>XX4</Title>
+      <Description>Hello 4</Description>
       <Type>Notice</Type>
+  </Item>
+  <Item>
+      <Title>XX5</Title>
+      <Description>Hello 5</Description>
+      <Type>Patch</Type>
   </Item>
 </UpdateItems>
